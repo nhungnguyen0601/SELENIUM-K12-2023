@@ -1,3 +1,5 @@
+package lession_3;
+
 public class Lab3_02 {
     public static void main(String[] args) {
 

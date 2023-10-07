@@ -1,3 +1,5 @@
+package lession_2;
+
 import java.util.Scanner;
 
 public class Lab2_02 {

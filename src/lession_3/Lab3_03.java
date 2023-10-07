@@ -1,3 +1,5 @@
+package lession_3;
+
 import java.util.Arrays;
 
 public class Lab3_03 {

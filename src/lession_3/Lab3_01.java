@@ -1,3 +1,5 @@
+package lession_3;
+
 public class Lab3_01 {
     public static void main(String[] args) {
         int[] myIntArr = new int[]{1, 2, 3, 4, 5};
