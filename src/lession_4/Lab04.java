@@ -82,9 +82,9 @@ public class Lab04 {
         int number = scanner.nextInt();
         if (list.contains(number)) {
             System.out.println("The number: " + number);
-            System.out.println("The index number is: " + list.indexOf(number));
+            System.out.println("The index number: " + list.indexOf(number));
         } else {
-            System.out.println("Number is not in the list");
+            System.out.println("Number is not in the list.");
         }
     }
 }
