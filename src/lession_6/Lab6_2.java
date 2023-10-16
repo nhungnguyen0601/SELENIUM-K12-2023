@@ -24,7 +24,7 @@ public class Lab6_2 {
         }
 
         if (trial == maxInput) {
-            System.out.println("Maximum attempts reached. Access denied.");
+            System.out.println("You can only input maximum 3 times.");
 
         }
 
